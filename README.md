@@ -1,6 +1,6 @@
 # **kookie** 🍪  
 
-**kookie** is a silly Chrome extension that generates random fortune cookie messages with a single click :)
+A silly Chrome extension that generates random fortune cookie messages with a single click :)
 
 ## **Installation**  
 
@@ -18,4 +18,5 @@ Follow these steps to install Kookie as a Chrome extension:
 4. Click **"Load unpacked"** and select the `kookie` project folder.  
 5. The extension will now appear in your browser toolbar. Click the icon to get a fortune!  
 
+![kookie](kookie.png)
 
