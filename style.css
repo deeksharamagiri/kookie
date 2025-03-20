@@ -1,0 +1,17 @@
+body {
+    width: 200px;
+    height: 200px;
+    background-image:url("bg.png");
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: inner-flex;
+    margin: auto 10px;
+    font-family: fangsong;
+    font-size: 22px;
+    font-weight:bold;
+    color:rgb(255, 255, 255);
+    padding: 10px;
+}
